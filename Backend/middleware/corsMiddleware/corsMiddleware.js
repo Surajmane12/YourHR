@@ -1,5 +1,5 @@
 
-const allowedOrigins = ["http://localhost:3000"];
+const allowedOrigins = ["https://66d2e0709886f0e2ae2f8c73--roaring-marigold-e0f356.netlify.app"];
 
 const corsOptions = {
   origin: (origin, callback) => {
